@@ -1,0 +1,25 @@
+# Ignore source files
+src/
+
+# Ignore build configuration files
+tsconfig.json
+tsup.config.ts
+
+# Ignore test files
+test/
+*.test.ts
+*.test.tsx
+
+# Ignore environment files
+.env
+
+# Ignore version control directories
+.git
+.gitignore
+
+# Ignore editor and OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore documentation files
+README.md
