@@ -32,6 +32,10 @@
       "customer-support",
       "Khatra Tech"
     ],
-    "author": "Khatra Tech <contact@khatratech.com>",
-    "license": "MIT"
+    "author": "Khatra Tech <info@khatratech.com>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/khatraTech/sarathi-bot.git"
+      }
   }
