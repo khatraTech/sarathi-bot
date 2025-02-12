@@ -285,7 +285,7 @@ MIT © [Khatra Tech](https://github.com/khatraTech)
 **Khatra Tech**
 - Website: [https://khatratech.com](https://khatratech.com)
 - GitHub: [@khatraTech](https://github.com/khatraTech)
-- Email: contact@khatratech.com
+- Email: info@khatratech.com
 
 ## 💪 Support
 
