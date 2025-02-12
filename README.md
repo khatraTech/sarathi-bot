@@ -278,13 +278,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-MIT © [Khatra Tech](https://github.com/khatra-tech)
+MIT © [Khatra Tech](https://github.com/khatraTech)
 
 ## 👥 Author
 
 **Khatra Tech**
 - Website: [https://khatratech.com](https://khatratech.com)
-- GitHub: [@khatra-tech](https://github.com/khatra-tech)
+- GitHub: [@khatraTech](https://github.com/khatraTech)
 - Email: contact@khatratech.com
 
 ## 💪 Support
